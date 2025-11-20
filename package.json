@@ -1,0 +1,23 @@
+{
+  "name": "dataservice-2",
+  "version": "1.0.0",
+  "description": "Test projekt til visning af Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonH3-coder/dataservice-2.git"
+  },
+  "author": "Simon H",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/SimonH3-coder/dataservice-2/issues"
+  },
+  "homepage": "https://github.com/SimonH3-coder/dataservice-2#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
